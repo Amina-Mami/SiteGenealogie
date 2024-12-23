@@ -26,7 +26,9 @@ This application supports viewing, adding, and editing profiles, as well as disp
 <div class="image-section">
     <h2>Réponse à la Partie 3 :</h2>
     <p>Voici le diagramme de la base de données qui répond au problème posé.</p>
-    <img src="diag.png" alt="Diagramme de la base de données">
+   <img src="/images/diag.png" alt="Diagramme de la base de données">
+
+  
     <h2>Description:</h2>
     <p>1. Proposition de Modification: <br>
 
